@@ -1,6 +1,6 @@
 # ToDo List
 
-Simple app ToDo List created with Python 3.7, Django 3.0<
+Simple app ToDo List created with Python 3.7, Django 3.0<br/>
 You can:
 - add item
 - edit item
